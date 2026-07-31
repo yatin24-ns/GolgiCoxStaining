@@ -2,6 +2,11 @@
 We used the NCBS Golgi-Cox protocol on adult rat brain tissue to visualize neuron architecture across the cortex and hippocampus. We could unambiguously trace and see isolated, darkly stained pyramidal, stellate, and interneurons against a low-contrast background field. Dendritic spines were resolved at high magnification.
 
 
+Find final project report here also attached in the native repository: 
+
+https://drive.google.com/file/d/1h_e7X2F8sMBNWcl5Kworsd20KtOLXfBe/view?usp=sharing
+
+
 Find raw images here: 
 
 https://drive.google.com/drive/folders/1jeOW6i0iu2YlvfmwDnUOKpSMahZbX1Y8?usp=drive_link
